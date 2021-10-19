@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'predictpricehouse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A66423A9748B477C9098223683E50C9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5D6887BF75D490DB75E55F9C3D31245 }}
